@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="400px" max-width="400px" width="400px" height="250px" max-height="250px" align="right" alt="Progamador Cartoon">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="400px" max-width="480px" width="480px" height="320px" max-height="0px" align="right" alt="Progamador Cartoon">
 
-<p>Seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
- atualmente estou cursando Ciência da Computação no 6° Semestre,<br> 
- estou me dedicando a programação <i>front-end</i>, procuro minha primeira vaga de estágio na área.</p>
+<p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
+ e atualmente estou cursando Ciência da Computação,<br> 
+ estou me dedicando a programação <i>front-end</i>, <br> procuro minha primeira vaga de estágio na área.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
