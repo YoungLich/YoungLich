@@ -6,7 +6,7 @@
 
 <p>Seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  atualmente estou cursando Ciência da Computação no 6° Semestre,<br> 
- estou me dedicando a programação <i>front-end</i>, procuro minha primeira vaga de estágio/trainee de desenvolvedor.</p>
+ estou me dedicando a programação <i>front-end</i>, procuro minha primeira vaga de estágio na área.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
