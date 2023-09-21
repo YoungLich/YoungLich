@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Progamador Cartoon">
 
 <p>Seja bem-vindo, meu nome é Gabriel. Sou formado em Análise e Desenvolvimento de Sistemas, atualmente estou cursando Ciência da 
  Computação no 6° Semestre, estou me dedicando a programação  <i>front-end</i>, procuro minha primeira vaga de estágio/trainee de desenvolvedor.</p>
