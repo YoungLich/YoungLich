@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Gabriel!;" />
 </h1>
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="150px" max-width="360px" width="360px" height="280px" max-height="0px" align="right" alt="Progamador Cartoon" align="right">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="150px" max-width="360px" width="480px" height="320px" max-height="0px" align="right" alt="Progamador Cartoon">
 
 <p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  e atualmente estou cursando Ciência da Computação,<br> 
