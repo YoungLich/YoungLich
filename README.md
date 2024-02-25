@@ -4,6 +4,10 @@
 
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="400px" max-width="480px" width="480px" height="320px" max-height="0px" align="right" alt="Progamador Cartoon">
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Gabriel!;" />
+</h1>
+
 <p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  e atualmente estou cursando Ciência da Computação,<br> 
  estou me dedicando a programação <i>front-end</i>, <br> procuro minha primeira vaga de estágio na área.</p>
@@ -34,6 +38,10 @@
  <img src="https://skillicons.dev/icons?i=vscode,eclipse," />
  
 </div> 
+<hr>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
