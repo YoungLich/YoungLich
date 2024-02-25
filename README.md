@@ -27,7 +27,7 @@
  
  <h2><i>Languages ​​I'm studying</i></h2>
  
- <img src= "https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev">
+ <img src= "https://skillicons.dev/icons?i=html,css,js,python, )](https://skillicons.dev">
 
  <h2>💻 Software and Tools</h2>
 
