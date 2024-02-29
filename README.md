@@ -9,8 +9,8 @@
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="150px" max-width="360px" width="480px" height="320px" max-height="0px" align="right" alt="Progamador Cartoon">
 
 <p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
- e estou cursando Ciência da Computação, na FAM - (Centro Universitário)
- estou me dedicando a programação <i>front-end</i>, <br> procuro vaga de estágio na área.</p>
+ e estou cursando Ciência da Computação, na FAM - (Centro Universitário),
+ estou me dedicando a programação <i>front-end</i>, procuro vaga de estágio na área.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
