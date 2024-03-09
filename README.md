@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem+vindo!;+Meu+nome+é+Gabriel😃;" />
 </h1>
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="150px" max-width="360px" width="480px" height="320px" max-height="0px" align="right" alt="Progamador Cartoon">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" min-width="150px" max-width="360px" width="400px" height="270px" max-height="0px" align="right" alt="Progamador Cartoon">
 
 <p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  e estou cursando Ciência da Computação, na FAM - (Centro Universitário),
@@ -31,11 +31,11 @@
  
  <h2><i>Languages ​​I'm studying</i></h2>
  
- <img src= "https://skillicons.dev/icons?i=html,css,js,python, )](https://skillicons.dev">
+ <img src= "https://skillicons.dev/icons?i=html,css,js,python,bootstrap )](https://skillicons.dev">
 
  <h2>💻 Software and Tools</h2>
 
- <img src="https://skillicons.dev/icons?i=vscode,eclipse," />
+ <img src="https://skillicons.dev/icons?i=vscode," />
  
 </div> 
 <hr>
