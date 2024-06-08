@@ -10,7 +10,7 @@
 
 <p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  e estou cursando Ciência da Computação, na FAM - (Centro Universitário),
- estou me dedicando a programação <i>front-end</i>, procuro vaga de estágio na área.</p>
+ estou me dedicando a programação <i>front-end</i>, e aprendendo <i>Python</i>.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
