@@ -15,7 +15,7 @@
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
   
-   <a href="#" alt="Whatsapp">
+  <a href="#" alt="Whatsapp">
   <a href="https://api.whatsapp.com/send/?phone=%2B5511949919959&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
    <a href="#" alt="Linkedin">
@@ -38,7 +38,11 @@
  <img src="https://skillicons.dev/icons?i=vscode,git,discord" />
  
 </div> 
+
 <hr>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;Até+Logo!+😉;" />
 </h1>
