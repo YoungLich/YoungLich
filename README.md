@@ -10,7 +10,7 @@
 
 <p>Olá tudo bem?, meu nome é Eduardo Gabriel. <br>Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  estou cursando Ciência da Computação, no Centro Universitário - FAM.
-  Estou me dedicando a programação <i>front-end</i>, estudando <i>JavaScript</i> and <i>Python</i>.</p>
+  Estou me dedicando a programação <i>Back-end</i>, estudando <i>JavaScript</i> and <i>Python</i>.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
