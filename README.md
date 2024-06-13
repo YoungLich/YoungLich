@@ -8,9 +8,9 @@
 
 <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
-<p>Olá seja bem-vindo, meu nome é Gabriel. <br> Sou formado em Análise e Desenvolvimento de Sistemas,<br>
- e estou cursando Ciência da Computação, na FAM - (Centro Universitário),
- estou me dedicando a programação <i>front-end</i>, e aprendendo <i>Python</i>.</p>
+<p>Olá tudo bem?, meu nome é Eduardo Gabriel. <br>Sou formado em Análise e Desenvolvimento de Sistemas,<br>
+ estou cursando Ciência da Computação, no Centro Universitário - FAM.<br>
+ Estou me dedicando a programação <i>front-end</i>, aprendendo <i>JavaScript</i> and <i>Python</i>.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
