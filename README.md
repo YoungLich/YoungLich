@@ -8,7 +8,7 @@
 
 <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
-<p>Olá tudo bem?, meu nome é Eduardo Gabriel. <br>Sou formado em Análise e Desenvolvimento de Sistemas,<br>
+<p>Olá tudo bem? meu nome é Eduardo Gabriel. <br>Sou formado em Análise e Desenvolvimento de Sistemas,<br>
  estou cursando Ciência da Computação, no Centro Universitário - FAM.
   Estou me dedicando a programação <i>Back-end</i>, estudando <i>JavaScript</i> and <i>Python</i>.</p>
 
@@ -31,11 +31,11 @@
  
  <h2><i>Languages ​​I'm studying</i></h2>
  
- <img src= "https://skillicons.dev/icons?i=html,css,js,python )](https://skillicons.dev">
+ <img src= "https://skillicons.dev/icons?i=html,css,js,nodejs,python )](https://skillicons.dev">
 
  <h2>💻 Software and Tools</h2>
 
- <img src="https://skillicons.dev/icons?i=vscode," />
+ <img src="https://skillicons.dev/icons?i=vscode,git,discord" />
  
 </div> 
 <hr>
