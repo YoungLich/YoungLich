@@ -8,8 +8,8 @@
 
 <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
-<p>Olá, tudo bem? meu nome é Gabriel. <br>Sou graduado em Análise e Desenvolvimento de Sistemas, 
- estou cursando Ciência da Computação. Aprendendo programação Back-end, <i>Python</i>.</p>
+<p>Olá, tudo bem? meu nome é Gabriel. <br>Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
+ Cursando Ciência da Computação no 8° Semestre. <br> Estagiário na Procuradoria Geral da Fazenda Nacional, <br> estudando programação Back-end, <i>Python</i>.</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
