@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem-vindo!;+Meu+nome+é+Gabriel😃;" />
 </h1>
 
-<img src="" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
+<img src="zoro.gif" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
 <p>👋 Olá, tudo bem? meu nome é Gabriel. <br>• Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
 • Cursando Ciência da Computação no 8° Semestre. <br> • Estagiário na Procuradoria Geral da Fazenda Nacional, <br>estudando programação Back-end, <i>Python</i>.</p>
