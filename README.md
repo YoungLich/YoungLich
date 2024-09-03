@@ -13,6 +13,9 @@
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
+
+  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/gab_proenca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   
   <a href="#" alt="Whatsapp">
   <a href="https://api.whatsapp.com/send/?phone=%2B5511949919959&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
