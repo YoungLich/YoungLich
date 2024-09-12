@@ -43,7 +43,13 @@
 
 <hr>
 
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungLich&show_icons=true&locale=en" alt="YoungLich" width="400px"/>
+</div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;Até+Logo!+😉;" />
