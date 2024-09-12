@@ -41,12 +41,17 @@
  
 </div> 
 
-<hr>
+<h2> Databases and Cloud Hosting</h2>
+
+<p>
+ <img src="https://skillicons.dev/icons?i=github,vercel," />
+</p>
 
 <div align="center">
    <a href="https://github.com/YoungLich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=younglich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungLich&theme=tokyonight&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungLich&theme=tokyonight&hide_border=false" /> 
 </div>
 
 <h1 align="center">
