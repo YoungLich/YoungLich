@@ -22,9 +22,8 @@
   
    <a href="#" alt="Linkedin">
    <a href="https://www.linkedin.com/in/gabriel-proencabr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   
-  <a href="#" alt="Gmail">
-  <a href="mailto:developer.gabrielz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/63dDaJHr" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/></a> 
+   <a href="mailto:eduardogamesbr890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div> 
  
  <br>
