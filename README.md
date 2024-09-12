@@ -43,12 +43,10 @@
 
 <hr>
 
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungLich&show_icons=true&locale=en" alt="YoungLich" width="400px"/>
+   <a href="https://github.com/YoungLich">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=younglich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <h1 align="center">
@@ -58,4 +56,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
-
