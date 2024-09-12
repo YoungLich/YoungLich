@@ -47,6 +47,8 @@
  <img src="https://skillicons.dev/icons?i=github,vercel," />
 </p>
 
+<img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
    <a href="https://github.com/YoungLich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungLich&theme=tokyonight&show_icons=true&count_private=true"/>
