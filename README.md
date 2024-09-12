@@ -41,7 +41,7 @@
  
 </div> 
 
-<h2> Databases and Cloud Hosting</h2>
+<h2>Cloud Hosting</h2>
 
 <p>
  <img src="https://skillicons.dev/icons?i=github,vercel," />
