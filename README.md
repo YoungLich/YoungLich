@@ -8,8 +8,8 @@
 
 <img src="zoro.gif" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
-<p>👋 Olá, tudo bem? meu nome é Gabriel. <br>👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
-🛠️ Cursando Ciência da Computação no 8° Semestre. <br> 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional, <br>desenvolvendo projetos back-end, com <i>Python</i>🔗</p>
+<p>👋 Olá, tudo bem? meu nome é Gabriel Proença. <br>👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
+🛠️ Cursando Ciência da Computação no 8° Semestre. <br> 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional, <br>desenvolvendo projetos RPA e análise de dados com <i>Python</i>🔗</p>
 
 <div align="left">
   <i><h5>My Social Networks:</h5></i>
