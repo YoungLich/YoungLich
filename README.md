@@ -27,7 +27,7 @@
 
 - ☁️ Tenho interesse em aprender sobre Cybersegurança, Cloud computing e infraestrutura de redes.
   
-- 📫 Contato para projetos e parcerias: **newdevshow@gmail.com**
+- 📫 Contato para projetos e parcerias: **GabsRag2002@outlook.com**
   
 
   <i><h5>My Social Networks:</h5></i>
