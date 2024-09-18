@@ -6,12 +6,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem-vindo!;+Meu+nome+é+Gabriel😃;" />
 </h1>
 
+<div align="center">
+
 <img src="zoro.gif" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
 <p>👋 Olá, tudo bem? meu nome é Gabriel Proença. <br>👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
 🛠️ Cursando Ciência da Computação no 8° Semestre. <br> 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional, <br>desenvolvendo projetos RPA e análise de dados com <i>Python</i>🔗</p>
 
-<div align="left">
+
   <i><h5>My Social Networks:</h5></i>
 
   <a href="#" alt="Instagram">
@@ -24,11 +26,11 @@
    <a href="https://www.linkedin.com/in/gabriel-proencabr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="https://discord.gg/63dDaJHr" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"/></a> 
    <a href="mailto:eduardogamesbr890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- </div> 
+  
  
  <br>
 
-<div align="left">
+<div align="center">
  
  <h2><i>Languages ​​I'm studying</i></h2>
  
@@ -45,6 +47,8 @@
 <p>
  <img src="https://skillicons.dev/icons?i=github,vercel," />
 </p>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
 
