@@ -2,17 +2,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem-vindo!;+Meu+nome+é+Gabriel😃;" />
-</h1>
+<div id="user-content-toc">
+  <ul align="center">
+<summary><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem-vindo!;+Meu+nome+é+Gabriel😃;" />    </summary>
+  </ul>
+</div>
 
 <div align="center">
+<img src="zoro.gif" style=" width: 400px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
+    border: 5px solid black;">
+<br>
 
-<img src="zoro.gif" min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
+<!--Intro start-->
 
-<p>👋 Olá, tudo bem? meu nome é Gabriel Proença. <br>👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. <br>
-🛠️ Cursando Ciência da Computação no 8° Semestre. <br> 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional, <br>desenvolvendo projetos RPA e análise de dados com <i>Python</i>🔗</p>
+- 👋 Olá, tudo bem? meu nome é Gabriel Proença.
+  
+- 👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando Ciência da Computação no 8° Semestre.
 
+- 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional.
+
+- 🛠️ desenvolvendo projetos RPA e análise de dados com <i>Python</i>.
+
+- ☁️ Tenho interesse em aprender sobre Cybersegurança, Cloud computing e infraestrutura de redes.
+  
+- 📫 Contato para projetos e parcerias: **newdevshow@gmail.com**
+  
 
   <i><h5>My Social Networks:</h5></i>
 
@@ -26,13 +42,12 @@
    <a href="https://www.linkedin.com/in/gabriel-proencabr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="https://discord.gg/63dDaJHr" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"/></a> 
    <a href="mailto:eduardogamesbr890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+     
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
- 
  <br>
-
-<div align="center">
  
- <h2><i>Languages ​​I'm studying</i></h2>
+ <h2>👨‍💻 <i>Languages ​​I'm studying</i></h2>
  
  <img src= "https://skillicons.dev/icons?i=python,js,html,css )](https://skillicons.dev">
 
@@ -40,17 +55,13 @@
 
  <img src="https://skillicons.dev/icons?i=vscode,git,discord" />
  
-</div> 
+<h2>🗄️ Cloud Hosting</h2>
+<img src="https://skillicons.dev/icons?i=github,vercel," />
 
-<h2>Cloud Hosting</h2>
-
-<p>
- <img src="https://skillicons.dev/icons?i=github,vercel," />
-</p>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 <div align="center">
    <a href="https://github.com/YoungLich">
