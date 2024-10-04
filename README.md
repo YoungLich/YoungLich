@@ -23,7 +23,7 @@
 
 - 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional.
 
-- 🛠️ desenvolvendo projetos RPA e análise de dados com <i>Python</i>.
+- 🛠️ Desenvolvendo projetos RPA e análise de dados com <i>Python</i>.
 
 - ☁️ Tenho interesse em aprender sobre Cybersegurança, Cloud computing e infraestrutura de redes.
   
