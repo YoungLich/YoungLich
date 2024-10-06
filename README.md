@@ -55,7 +55,7 @@
 
  <img src="https://skillicons.dev/icons?i=vscode,git,discord" />
  
-<h2>🗄️ Cloud Hosting</h2>
+<h2>🗄️ Code and Cloud Hosting</h2>
 <img src="https://skillicons.dev/icons?i=github,vercel," />
 
 
