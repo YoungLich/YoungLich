@@ -19,9 +19,9 @@
 
 - 👋 Olá, tudo bem? meu nome é Gabriel Proença.
   
-- 👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando Ciência da Computação no 8° Semestre.
+- 👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciência da Computação.
 
-- 🚀 Estagiário na Procuradoria Geral da Fazenda Nacional.
+- 🚀 Auxiliar de TI na Bravo | Simplify Everything.
 
 - 🛠️ Desenvolvendo projetos RPA e análise de dados com <i>Python</i>.
 
