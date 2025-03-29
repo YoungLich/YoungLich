@@ -17,17 +17,17 @@
 
 <!--Intro start-->
 
-- 👋 Olá, tudo bem? meu nome é Gabriel Proença.
+- 👋 Olá, tudo bem? meu nome é Eduardo Carvalho.
   
 - 👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciência da Computação.
 
 - 🚀 Auxiliar de TI na Bravo | Simplify Everything.
 
-- 🛠️ Desenvolvendo projetos RPA e análise de dados com <i>Python</i>.
+- 🛠️ Desenvolvendo projetos RPA <i>Python</i>.
 
 - ☁️ Tenho interesse em aprender sobre Cybersegurança, Cloud computing e infraestrutura de redes.
   
-- 📫 Contato para projetos e parcerias: **GabsRag2002@outlook.com**
+- 📫 Contato para projetos e parcerias: **eduardogamesbr890@gmail.com**
   
 
   <i><h5>My Social Networks:</h5></i>
