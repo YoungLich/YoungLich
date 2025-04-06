@@ -25,28 +25,20 @@
 
 ### 🌐 Minhas redes sociais
 
-<a href="https://eudev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-WebSite-%23323330?style=for-the-badge&logo=page&logoColor=white">
-</a>
-
 <a href="https://www.instagram.com/gab_proenca/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://api.whatsapp.com/send/?phone=%2B5511949919959&text&app_absent=0" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="http://www.linkedin.com/in/eduardocarvalhos" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://discord.gg/63dDaJHr" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:eduardogamesbr890@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.gg/63dDaJHr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </div>
@@ -60,7 +52,7 @@
 ### 👨‍💻 Tecnologias que estou estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,database" />
 </p>
 
 ---
@@ -68,7 +60,7 @@
 ### 💻 Softwares e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,discord" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma,vscode,git,discord" />
 </p>
 
 ---
@@ -76,7 +68,7 @@
 ### 🗄️ Hospedagem de Código e Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify,gitlab,github,vercel" />
 </p>
 
 ---
