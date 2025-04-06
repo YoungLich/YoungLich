@@ -13,7 +13,7 @@
 
 👨‍💻 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciência da Computação.  
 
-🚀 Atualmente, sou Auxiliar de TI na Bravo | Simplify Everything.  
+🚀 Atualmente, sou estagiário de Análise de Dados no Ministério da Fazenda.  
 
 🛠️ Desenvolvendo projetos RPA com <i>Python</i>.  
 
