@@ -46,7 +46,7 @@
 ### 💻 Softwares e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma,vscode,git,windows" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,firebase,figma,vscode,windows" />
 </p>
 
 ---
