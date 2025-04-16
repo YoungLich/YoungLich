@@ -12,6 +12,10 @@
   
 ### 🌐 Minhas redes sociais
 
+<a href="https://eduardu.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devto" />
+</a>
+
 <a href="https://www.instagram.com/gab_proenca/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
@@ -46,7 +50,7 @@
 ### 💻 Softwares e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,firebase,figma,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=git,postgres,mongodb,firebase,figma,vscode,windows" />
 </p>
 
 ---
