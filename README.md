@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+👋;Seja+Bem-vindo!;Meu+nome+é+Eduardo+😃;" />
 </p>
 
-<div align="left">
+<div align="center">
   
 ### 🌐 Minhas redes sociais
 
@@ -40,10 +40,10 @@
 ---
 
 
-### 👨‍💻 Tecnologias que estou estudando | 💻 Softwares e Ferramentas | 🗄️ Hospedagem de Código e Cloud
+### 👨‍💻 Tecnologias que estou estudando |🗄️ Hospedagem de Código e Cloud |💻 Softwares e Ferramentas 
 <div align="center">
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,database,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
 </p>
 </div>
 
