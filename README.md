@@ -9,6 +9,10 @@
 </p>
 
 <div align="center">
+<img src="zoro.gif" width="150px" alt="Gif">
+</div>
+
+<div align="center">
   
 ### 🌐 Minhas redes sociais
 
