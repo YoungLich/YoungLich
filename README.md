@@ -26,7 +26,7 @@
 </a>
 
 
-<a href="mailto:eduardogamesbr890@gmail.com" target="_blank">
+<a href="mailto:developerpyjr@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
