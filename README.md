@@ -44,7 +44,7 @@
 ---
 
 
-### 👨‍💻 Tecnologias que estou estudando |🗄️ Hospedagem de Código e Cloud |💻 Softwares e Ferramentas 
+### 👨‍💻 Tecnologias que estou estudando |🗄️ Hospedagem de Código e Cloud | 💻 Softwares e Ferramentas 
 <div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
