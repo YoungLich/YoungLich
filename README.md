@@ -1,73 +1,68 @@
-<!-- Divider com gradiente -->
+<!-- Banner com gradiente -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="gradient divider">
 </p>
 
-<!-- Título com efeito de digitação -->
+<!-- Título animado -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+👋;Seja+Bem-vindo!;Meu+nome+é+Eduardo+😃;" />
 </p>
 
+<!-- Gif central -->
 <div align="center">
-<img src="zoro.gif" width="150px" alt="Gif">
+  <img src="zoro.gif" width="150px" alt="Gif do Zoro">
 </div>
 
+<br>
+
+<!-- Redes sociais -->
 <div align="center">
-  
-### 🌐 Minhas redes sociais
-
-<a href="https://eduardu.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devto" />
-</a>
-
-<a href="https://www.instagram.com/gab_proenca/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-
-<a href="http://www.linkedin.com/in/eduardocarvalhos" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-
-<a href="mailto:developerpyjr@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-
-<a href="https://discord.gg/63dDaJHr" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
+  <h3>🌐 Minhas redes sociais</h3>
+  <a href="https://eduardu.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  <a href="https://www.instagram.com/gab_proenca/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="http://www.linkedin.com/in/eduardocarvalhos" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:developerpyjr@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.gg/63dDaJHr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </div>
 
----
+<br>
 
-
-### 👨‍💻 Tecnologias que estou estudando |🗄️ Hospedagem de Código e Cloud | 💻 Softwares e Ferramentas 
+<!-- Status GitHub e Commits lado a lado -->
 <div align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
-</p>
-</div>
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungLich&theme=gotham&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLich&layout=compact&langs_count=6&theme=gotham"/>
-</p>
-
----
-<div align="center">
-<h1>🐍 Snake Contribution</h1>
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungLich&theme=gotham&show_icons=true&count_private=true"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
-</p>
+<br>
 
----
+<!-- Skills -->
+<div align="center">
+  <h2>👨‍💻 Tecnologias que estou estudando |🗄️ Hospedagem de Código e Cloud | 💻 Softwares e Ferramentas</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
+  </p>
+</div>
+
+<br>
+
+<!-- Snake Contribution -->
+<div align="center">
+  <h1>🐍 Snake Contribution</h1>
+  <img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
 
 <!-- Mensagem final -->
 <h1 align="center">
