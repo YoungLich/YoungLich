@@ -18,7 +18,7 @@
 <!-- Redes sociais -->
 <div align="center">
   <h3>🌐 Minhas redes sociais</h3>
-  <a href="https://eduardu.vercel.app/" target="_blank">
+  <a href="https://codejr.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
   <a href="https://www.instagram.com/gab_proenca/" target="_blank">
