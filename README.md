@@ -53,17 +53,7 @@
     <img src="https://skillicons.dev/icons?i=python,js,html,css,netlify,gitlab,github,vercel,git,postgres,mongodb,firebase,figma,vscode,windows" />
   </p>
 </div>
-
 <br>
-
-<!-- Snake Contribution -->
-<div align="center">
-  <h1>🐍 Snake Contribution</h1>
-  <img src="https://raw.githubusercontent.com/younglich/younglich/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br>
-
 <!-- Mensagem final -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;Até+Logo!+😉;" />
