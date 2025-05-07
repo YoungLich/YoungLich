@@ -4,7 +4,7 @@
 <!-- GIF do Pato (mais embaixo, à direita) -->
 <img align="right" height="220em" style="margin-top: 100px;" src="pato.gif"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gabriel!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Eduardo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglich&color=blue" alt="Profile views" /> </p>
 
 - 🔧 Desenvolvedor Jr & entusiasta de automações com Python  
@@ -21,9 +21,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
@@ -31,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 ---
 
@@ -39,7 +35,7 @@
 
 <p align="left">
   <img width="430em" src="https://github-readme-stats.vercel.app/api?username=younglich&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's stats"/>
-  <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younglich&layout=compact&theme=tokyonight" alt="Top langs"/>
+  <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younglich&layout=compact&theme=tokyonight" alt="Top langs"/>
 </p>
 
 ---
