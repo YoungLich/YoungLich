@@ -1,7 +1,8 @@
-<img align="center" width="500px" src="Dino.gif"/>
+<!-- GIF do Dino (maior e centralizado) -->
+<img align="center" width="600px" src="Dino.gif"/>
 
-<!-- GitHub Card lateral (adicione seu próprio SVG depois no Canva) -->
-<img align="right" height="220em" src="pato.gif"/>
+<!-- GIF do Pato (mais embaixo, à direita) -->
+<img align="right" height="220em" style="margin-top: 100px;" src="pato.gif"/>
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gabriel!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglich&color=blue" alt="Profile views" /> </p>
@@ -60,7 +61,6 @@
   
   <a href="https://discord.gg/seu-link" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/></a>
-  
 </p>
 
 ---
