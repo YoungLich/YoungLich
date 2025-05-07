@@ -47,16 +47,16 @@
   <a href="https://codejr.vercel.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=vercel" /></a>
   
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://linkedin.com/in/eduardocarvalhos/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin"/></a>
   
-  <a href="https://www.instagram.com/seu-usuario/" target="_blank">
+  <a href="https://www.instagram.com/gab_proenca/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/></a>
   
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:developerpyjr@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a>
   
-  <a href="https://discord.gg/seu-link" target="_blank">
+  <a href="https://discord.gg/vwWzkn4a" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/></a>
 </p>
 
