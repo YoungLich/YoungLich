@@ -1,5 +1,5 @@
 <!-- GIF do Dino (maior e centralizado) -->
-<img align="center" width="600px" src=""/>
+<img align="center" width="1200px" src="Dino.gif"/>
 
 <!-- GIF do Pato (mais embaixo, à direita) -->
 <img align="right" height="220em" style="margin-top: 100px;" src="pato.gif"/>
