@@ -8,7 +8,7 @@
 - 🧠 Sempre aprendendo novas tecnologias como **Flask** e **FastAPI**  
 - ⚡ Automatizo rotinas com **Selenium**, **PyAutoGUI** e APIs Web  
 - 🚀 Apaixonado por transformar ideias em soluções reais  
-- 🌍 Portfólio: [codejr.vercel.app](https://codejr.vercel.app)
+- 🌍 Portfólio: [codejr.vercel.app](https://codejr.site)
 
 ---
 
@@ -55,20 +55,6 @@
   <a href="https://discord.gg/vwWzkn4a" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/></a>
 </p>
-
----
-
-## 📌 Atualmente estudando
-
-- 🧩 **Python com Flask + MongoDB**  
-- 🔐 Integrações com APIs e autenticação com Supabase  
-- ☁️ Ferramentas de DevOps e deploys com Vercel e Render  
-
----
-
-## 💡 Spoiler
-
-> Em breve: **Plataforma de gestão de finanças** com autenticação, dashboard, API própria e deploy full-stack.
 
 ---
 
