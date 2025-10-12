@@ -8,7 +8,7 @@
 - 🧠 Sempre aprendendo novas tecnologias como **Flask** e **FastAPI**  
 - ⚡ Automatizo rotinas com **Selenium**, **PyAutoGUI** e APIs Web  
 - 🚀 Apaixonado por transformar ideias em soluções reais  
-- 🌍 Portfólio: [codejr.vercel.app](https://codejr.site)
+- 🌍 Portfólio: [codejr.site](https://codejr.site)
 
 ---
 
