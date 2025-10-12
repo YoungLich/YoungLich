@@ -1,8 +1,9 @@
 <!-- GIF do Pato (mais embaixo, à direita) -->
-<img align="right" height="220em" style="margin-top: 100px;" src="pato.gif"/>
-
+<hr>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Eduardo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglich&color=blue" alt="Profile views" /> </p>
+
+<img align="right" height="200em" style="margin-top: 100px;" src="pato.gif"/>
 
 - 🔧 Desenvolvedor Jr & entusiasta de automações com Python  
 - 🧠 Sempre aprendendo novas tecnologias como **Flask** e **FastAPI**  
@@ -24,7 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
 
 ---
 
