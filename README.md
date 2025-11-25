@@ -26,38 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
----
-
-## ⚙️ &nbsp;Estatísticas GitHub
-
-<p align="left">
-  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=younglich&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's stats"/>
-  <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younglich&layout=compact&theme=tokyonight" alt="Top langs"/>
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="left">
-  <a href="https://codejr.site/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=vercel" /></a>
-  
-  <a href="https://linkedin.com/in/eduardocarvalhos/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin"/></a>
-  
-  <a href="https://www.instagram.com/gabrielproencas/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/></a>
-  
-  <a href="mailto:eduardogabs020@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a>
-  
-  <a href="https://discord.gg/vwWzkn4a" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/></a>
-</p>
-
----
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Obrigado+pela+visita!;Vamos+construir+algo+juntos!" />
 </h3>
