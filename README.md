@@ -23,7 +23,6 @@
 - 🧠 Estudando constantemente **Python, Flask, FastAPI e APIs modernas**
 - ⚡ Automação com **Selenium, PyAutoGUI e Web Scraping**
 - 🚀 Transformo ideias cruas em **produtos funcionais**
-- 🌍 Portfólio: **https://codejr.site**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=younglich&label=Profile%20views&color=0e75b6&style=flat" />
